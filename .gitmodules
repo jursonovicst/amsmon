@@ -1,0 +1,6 @@
+[submodule "sh1106"]
+	path = sh1106
+	url = https://github.com/robert-hh/SH1106.git
+[submodule "picodht22"]
+	path = picodht22
+	url = https://github.com/danjperron/PicoDHT22.git
